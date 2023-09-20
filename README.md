@@ -1,16 +1,28 @@
-# webldavi README
+<p align="center">
+  <img src="https://github.com/webldavi/tail-theme/blob/main/assets/Icon.png?raw=true" width="250px" height="250px">
+</p>
+<h1 align="center">Tail-theme</h1>
+<p align="center">Tail-theme foi desenvolvido usando as cores padrões do tailwind CSS, assim criando um tema agradavel e com cores aprovadas pela comunidade</p>
 
-## Working with Markdown
+## Exemplo de código com o tema:
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="https://i.imgur.com/9M7j8Hj.png" height="400px" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Instalação
+<p>VOcê pode instalar a extensão através do marketplace do visual studio code cliando <a href="https://marketplace.visualstudio.com/items?itemName=webldavi.tail-theme" target="_blank">aqui</a></p>
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Autor
 
-**Enjoy!**
+| Foto de perfil      | Descrição |
+| :-------------------: | :---------: |
+| <img src="https://avatars.githubusercontent.com/u/89264926?v=4" alt="Sua Foto de Perfil" width="50" height="50" style="border-radius: 99px">     | Olá, eu sou [Luis Davi](https://luisdavi.vercel.app), um desenvolvedor entusiasta que criou a biblioteca **webMaster**. Estou sempre buscando maneiras de tornar a web mais incrível e funcional.
+
+---
+
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luisdav1)
+- 🌐 Visite o meu [site pessoal](https://luisdavi.vercel.app) para saber mais sobre meus projetos
+- 📸 Siga-me no [Instagram](https://instagram.com/lu1s.dev) para ver as últimas novidades
+
+Fique à vontade para entrar em contato comigo para qualquer dúvida ou colaboração!
+

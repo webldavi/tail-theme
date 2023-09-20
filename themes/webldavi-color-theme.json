@@ -1853,7 +1853,7 @@
     "activityBar.background": "#18181b",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#dd69a8",
     "activityBar.border": "#7d7d7d",
     "sideBar.background": "#18181b",
     "sideBar.foreground": "#e4e4e7",

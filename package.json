@@ -1,0 +1,23 @@
+{
+  "name": "tail-theme",
+  "displayName": "tail-theme",
+  "description": "A dark theme with tailwind css colors",
+  "version": "0.0.2",
+  "icon": "assets/Icon.png",
+  "publisher": "webldavi",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "webldavi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webldavi-color-theme.json"
+      }
+    ]
+  }
+}
